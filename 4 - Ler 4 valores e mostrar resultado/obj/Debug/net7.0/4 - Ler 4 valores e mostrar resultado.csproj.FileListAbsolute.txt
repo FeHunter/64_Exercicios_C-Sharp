@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\4 - Ler 4 valores e mostrar resultado\bin\Debug\net7.0\4 - Ler 4 valores e mostrar resultado.exe
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\4 - Ler 4 valores e mostrar resultado\bin\Debug\net7.0\4 - Ler 4 valores e mostrar resultado.deps.json
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\4 - Ler 4 valores e mostrar resultado\bin\Debug\net7.0\4 - Ler 4 valores e mostrar resultado.runtimeconfig.json
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\4 - Ler 4 valores e mostrar resultado\bin\Debug\net7.0\4 - Ler 4 valores e mostrar resultado.dll
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\4 - Ler 4 valores e mostrar resultado\bin\Debug\net7.0\4 - Ler 4 valores e mostrar resultado.pdb
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\4 - Ler 4 valores e mostrar resultado\obj\Debug\net7.0\4 - Ler 4 valores e mostrar resultado.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\4 - Ler 4 valores e mostrar resultado\obj\Debug\net7.0\4 - Ler 4 valores e mostrar resultado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\4 - Ler 4 valores e mostrar resultado\obj\Debug\net7.0\4 - Ler 4 valores e mostrar resultado.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\4 - Ler 4 valores e mostrar resultado\obj\Debug\net7.0\4 - Ler 4 valores e mostrar resultado.AssemblyInfo.cs
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\4 - Ler 4 valores e mostrar resultado\obj\Debug\net7.0\4 - Ler 4 valores e mostrar resultado.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\4 - Ler 4 valores e mostrar resultado\obj\Debug\net7.0\4 - Ler 4 valores e mostrar resultado.dll
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\4 - Ler 4 valores e mostrar resultado\obj\Debug\net7.0\refint\4 - Ler 4 valores e mostrar resultado.dll
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\4 - Ler 4 valores e mostrar resultado\obj\Debug\net7.0\4 - Ler 4 valores e mostrar resultado.pdb
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\4 - Ler 4 valores e mostrar resultado\obj\Debug\net7.0\4 - Ler 4 valores e mostrar resultado.genruntimeconfig.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\4 - Ler 4 valores e mostrar resultado\obj\Debug\net7.0\ref\4 - Ler 4 valores e mostrar resultado.dll
