@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\6 e 7 - Celsius para Fahrenheit\bin\Debug\net7.0\6 e 7 - Celsius para Fahrenheit.exe
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\6 e 7 - Celsius para Fahrenheit\bin\Debug\net7.0\6 e 7 - Celsius para Fahrenheit.deps.json
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\6 e 7 - Celsius para Fahrenheit\bin\Debug\net7.0\6 e 7 - Celsius para Fahrenheit.runtimeconfig.json
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\6 e 7 - Celsius para Fahrenheit\bin\Debug\net7.0\6 e 7 - Celsius para Fahrenheit.dll
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\6 e 7 - Celsius para Fahrenheit\bin\Debug\net7.0\6 e 7 - Celsius para Fahrenheit.pdb
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\6 e 7 - Celsius para Fahrenheit\obj\Debug\net7.0\6 e 7 - Celsius para Fahrenheit.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\6 e 7 - Celsius para Fahrenheit\obj\Debug\net7.0\6 e 7 - Celsius para Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\6 e 7 - Celsius para Fahrenheit\obj\Debug\net7.0\6 e 7 - Celsius para Fahrenheit.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\6 e 7 - Celsius para Fahrenheit\obj\Debug\net7.0\6 e 7 - Celsius para Fahrenheit.AssemblyInfo.cs
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\6 e 7 - Celsius para Fahrenheit\obj\Debug\net7.0\6 e 7 - Celsius para Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\6 e 7 - Celsius para Fahrenheit\obj\Debug\net7.0\6 e 7 - Celsius para Fahrenheit.dll
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\6 e 7 - Celsius para Fahrenheit\obj\Debug\net7.0\refint\6 e 7 - Celsius para Fahrenheit.dll
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\6 e 7 - Celsius para Fahrenheit\obj\Debug\net7.0\6 e 7 - Celsius para Fahrenheit.pdb
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\6 e 7 - Celsius para Fahrenheit\obj\Debug\net7.0\6 e 7 - Celsius para Fahrenheit.genruntimeconfig.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\6 e 7 - Celsius para Fahrenheit\obj\Debug\net7.0\ref\6 e 7 - Celsius para Fahrenheit.dll

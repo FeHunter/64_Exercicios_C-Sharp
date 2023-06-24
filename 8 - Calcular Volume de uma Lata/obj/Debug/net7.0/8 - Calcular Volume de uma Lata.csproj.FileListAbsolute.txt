@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\8 - Calcular Volume de uma Lata\bin\Debug\net7.0\8 - Calcular Volume de uma Lata.exe
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\8 - Calcular Volume de uma Lata\bin\Debug\net7.0\8 - Calcular Volume de uma Lata.deps.json
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\8 - Calcular Volume de uma Lata\bin\Debug\net7.0\8 - Calcular Volume de uma Lata.runtimeconfig.json
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\8 - Calcular Volume de uma Lata\bin\Debug\net7.0\8 - Calcular Volume de uma Lata.dll
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\8 - Calcular Volume de uma Lata\bin\Debug\net7.0\8 - Calcular Volume de uma Lata.pdb
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\8 - Calcular Volume de uma Lata\obj\Debug\net7.0\8 - Calcular Volume de uma Lata.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\8 - Calcular Volume de uma Lata\obj\Debug\net7.0\8 - Calcular Volume de uma Lata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\8 - Calcular Volume de uma Lata\obj\Debug\net7.0\8 - Calcular Volume de uma Lata.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\8 - Calcular Volume de uma Lata\obj\Debug\net7.0\8 - Calcular Volume de uma Lata.AssemblyInfo.cs
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\8 - Calcular Volume de uma Lata\obj\Debug\net7.0\8 - Calcular Volume de uma Lata.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\8 - Calcular Volume de uma Lata\obj\Debug\net7.0\8 - Calcular Volume de uma Lata.dll
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\8 - Calcular Volume de uma Lata\obj\Debug\net7.0\refint\8 - Calcular Volume de uma Lata.dll
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\8 - Calcular Volume de uma Lata\obj\Debug\net7.0\8 - Calcular Volume de uma Lata.pdb
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\8 - Calcular Volume de uma Lata\obj\Debug\net7.0\8 - Calcular Volume de uma Lata.genruntimeconfig.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\8 - Calcular Volume de uma Lata\obj\Debug\net7.0\ref\8 - Calcular Volume de uma Lata.dll
