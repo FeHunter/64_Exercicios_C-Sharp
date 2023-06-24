@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\9 - Idade apenas em dia N°\bin\Debug\net7.0\9 - Idade apenas em dia N°.exe
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\9 - Idade apenas em dia N°\bin\Debug\net7.0\9 - Idade apenas em dia N°.deps.json
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\9 - Idade apenas em dia N°\bin\Debug\net7.0\9 - Idade apenas em dia N°.runtimeconfig.json
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\9 - Idade apenas em dia N°\bin\Debug\net7.0\9 - Idade apenas em dia N°.dll
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\9 - Idade apenas em dia N°\bin\Debug\net7.0\9 - Idade apenas em dia N°.pdb
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\9 - Idade apenas em dia N°\obj\Debug\net7.0\9 - Idade apenas em dia N°.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\9 - Idade apenas em dia N°\obj\Debug\net7.0\9 - Idade apenas em dia N°.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\9 - Idade apenas em dia N°\obj\Debug\net7.0\9 - Idade apenas em dia N°.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\9 - Idade apenas em dia N°\obj\Debug\net7.0\9 - Idade apenas em dia N°.AssemblyInfo.cs
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\9 - Idade apenas em dia N°\obj\Debug\net7.0\9 - Idade apenas em dia N°.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\9 - Idade apenas em dia N°\obj\Debug\net7.0\9 - Idade apenas em dia N°.dll
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\9 - Idade apenas em dia N°\obj\Debug\net7.0\refint\9 - Idade apenas em dia N°.dll
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\9 - Idade apenas em dia N°\obj\Debug\net7.0\9 - Idade apenas em dia N°.pdb
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\9 - Idade apenas em dia N°\obj\Debug\net7.0\9 - Idade apenas em dia N°.genruntimeconfig.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\9 - Idade apenas em dia N°\obj\Debug\net7.0\ref\9 - Idade apenas em dia N°.dll
