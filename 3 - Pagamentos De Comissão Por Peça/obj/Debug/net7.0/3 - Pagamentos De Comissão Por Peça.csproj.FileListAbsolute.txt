@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\3 - Pagamentos De Comissão Por Peça\bin\Debug\net7.0\3 - Pagamentos De Comissão Por Peça.exe
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\3 - Pagamentos De Comissão Por Peça\bin\Debug\net7.0\3 - Pagamentos De Comissão Por Peça.deps.json
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\3 - Pagamentos De Comissão Por Peça\bin\Debug\net7.0\3 - Pagamentos De Comissão Por Peça.runtimeconfig.json
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\3 - Pagamentos De Comissão Por Peça\bin\Debug\net7.0\3 - Pagamentos De Comissão Por Peça.dll
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\3 - Pagamentos De Comissão Por Peça\bin\Debug\net7.0\3 - Pagamentos De Comissão Por Peça.pdb
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\3 - Pagamentos De Comissão Por Peça\obj\Debug\net7.0\3 - Pagamentos De Comissão Por Peça.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\3 - Pagamentos De Comissão Por Peça\obj\Debug\net7.0\3 - Pagamentos De Comissão Por Peça.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\3 - Pagamentos De Comissão Por Peça\obj\Debug\net7.0\3 - Pagamentos De Comissão Por Peça.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\3 - Pagamentos De Comissão Por Peça\obj\Debug\net7.0\3 - Pagamentos De Comissão Por Peça.AssemblyInfo.cs
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\3 - Pagamentos De Comissão Por Peça\obj\Debug\net7.0\3 - Pagamentos De Comissão Por Peça.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\3 - Pagamentos De Comissão Por Peça\obj\Debug\net7.0\3 - Pagamentos De Comissão Por Peça.dll
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\3 - Pagamentos De Comissão Por Peça\obj\Debug\net7.0\refint\3 - Pagamentos De Comissão Por Peça.dll
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\3 - Pagamentos De Comissão Por Peça\obj\Debug\net7.0\3 - Pagamentos De Comissão Por Peça.pdb
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\3 - Pagamentos De Comissão Por Peça\obj\Debug\net7.0\3 - Pagamentos De Comissão Por Peça.genruntimeconfig.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\3 - Pagamentos De Comissão Por Peça\obj\Debug\net7.0\ref\3 - Pagamentos De Comissão Por Peça.dll

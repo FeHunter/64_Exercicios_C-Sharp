@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\2 - Converter Real para Dolar\bin\Debug\net7.0\2 - Converter Real para Dolar.exe
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\2 - Converter Real para Dolar\bin\Debug\net7.0\2 - Converter Real para Dolar.deps.json
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\2 - Converter Real para Dolar\bin\Debug\net7.0\2 - Converter Real para Dolar.runtimeconfig.json
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\2 - Converter Real para Dolar\bin\Debug\net7.0\2 - Converter Real para Dolar.dll
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\2 - Converter Real para Dolar\bin\Debug\net7.0\2 - Converter Real para Dolar.pdb
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\2 - Converter Real para Dolar\obj\Debug\net7.0\2 - Converter Real para Dolar.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\2 - Converter Real para Dolar\obj\Debug\net7.0\2 - Converter Real para Dolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\2 - Converter Real para Dolar\obj\Debug\net7.0\2 - Converter Real para Dolar.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\2 - Converter Real para Dolar\obj\Debug\net7.0\2 - Converter Real para Dolar.AssemblyInfo.cs
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\2 - Converter Real para Dolar\obj\Debug\net7.0\2 - Converter Real para Dolar.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\2 - Converter Real para Dolar\obj\Debug\net7.0\2 - Converter Real para Dolar.dll
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\2 - Converter Real para Dolar\obj\Debug\net7.0\refint\2 - Converter Real para Dolar.dll
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\2 - Converter Real para Dolar\obj\Debug\net7.0\2 - Converter Real para Dolar.pdb
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\2 - Converter Real para Dolar\obj\Debug\net7.0\2 - Converter Real para Dolar.genruntimeconfig.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\2 - Converter Real para Dolar\obj\Debug\net7.0\ref\2 - Converter Real para Dolar.dll
