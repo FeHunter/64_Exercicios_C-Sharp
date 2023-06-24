@@ -1,0 +1,30 @@
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\Calcular_Media_Estoque\bin\Debug\net7.0\Calcular_Media_Estoque.exe
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\Calcular_Media_Estoque\bin\Debug\net7.0\Calcular_Media_Estoque.deps.json
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\Calcular_Media_Estoque\bin\Debug\net7.0\Calcular_Media_Estoque.runtimeconfig.json
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\Calcular_Media_Estoque\bin\Debug\net7.0\Calcular_Media_Estoque.dll
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\Calcular_Media_Estoque\bin\Debug\net7.0\Calcular_Media_Estoque.pdb
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\Calcular_Media_Estoque\obj\Debug\net7.0\Calcular_Media_Estoque.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\Calcular_Media_Estoque\obj\Debug\net7.0\Calcular_Media_Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\Calcular_Media_Estoque\obj\Debug\net7.0\Calcular_Media_Estoque.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\Calcular_Media_Estoque\obj\Debug\net7.0\Calcular_Media_Estoque.AssemblyInfo.cs
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\Calcular_Media_Estoque\obj\Debug\net7.0\Calcular_Media_Estoque.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\Calcular_Media_Estoque\obj\Debug\net7.0\Calcular_Media_Estoque.dll
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\Calcular_Media_Estoque\obj\Debug\net7.0\refint\Calcular_Media_Estoque.dll
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\Calcular_Media_Estoque\obj\Debug\net7.0\Calcular_Media_Estoque.pdb
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\Calcular_Media_Estoque\obj\Debug\net7.0\Calcular_Media_Estoque.genruntimeconfig.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\Calcular_Media_Estoque\obj\Debug\net7.0\ref\Calcular_Media_Estoque.dll
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\1 - Calcular_Media_Estoque\bin\Debug\net7.0\Calcular_Media_Estoque.exe
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\1 - Calcular_Media_Estoque\bin\Debug\net7.0\Calcular_Media_Estoque.deps.json
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\1 - Calcular_Media_Estoque\bin\Debug\net7.0\Calcular_Media_Estoque.runtimeconfig.json
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\1 - Calcular_Media_Estoque\bin\Debug\net7.0\Calcular_Media_Estoque.dll
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\1 - Calcular_Media_Estoque\bin\Debug\net7.0\Calcular_Media_Estoque.pdb
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\1 - Calcular_Media_Estoque\obj\Debug\net7.0\Calcular_Media_Estoque.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\1 - Calcular_Media_Estoque\obj\Debug\net7.0\Calcular_Media_Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\1 - Calcular_Media_Estoque\obj\Debug\net7.0\Calcular_Media_Estoque.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\1 - Calcular_Media_Estoque\obj\Debug\net7.0\Calcular_Media_Estoque.AssemblyInfo.cs
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\1 - Calcular_Media_Estoque\obj\Debug\net7.0\Calcular_Media_Estoque.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\1 - Calcular_Media_Estoque\obj\Debug\net7.0\Calcular_Media_Estoque.dll
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\1 - Calcular_Media_Estoque\obj\Debug\net7.0\refint\Calcular_Media_Estoque.dll
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\1 - Calcular_Media_Estoque\obj\Debug\net7.0\Calcular_Media_Estoque.pdb
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\1 - Calcular_Media_Estoque\obj\Debug\net7.0\Calcular_Media_Estoque.genruntimeconfig.cache
+C:\Users\user\Documents\Programação\C-Sharp\Lista com Exercícios C#\1 - Calcular_Media_Estoque\obj\Debug\net7.0\ref\Calcular_Media_Estoque.dll
